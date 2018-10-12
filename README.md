@@ -1,2 +1,2 @@
 # Parallel-Genetic-Algorithm-to-Solve-Traveling-Salesman-Problem
-This program is implemented Abstract- Traveling Salesman Problem (TSP) is one of the most common studied problems in combinatorial optimization. Given the list of cities and distances between them, the problem is to find the shortest tour possible which visits all the cities in list exactly once and ends in the city where it starts.
+Traveling Salesman Problem (TSP) is one of the most common studied problems in combinatorial optimization. Given the list of cities and distances between them, the problem is to find the shortest tour possible which visits all the cities in list exactly once and ends in the city where it starts.
