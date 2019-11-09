@@ -346,3 +346,8 @@ void mutation(Chromosome *pop){
 		pop[(20*POPULATION_SIZE/100)+k].genes[i] = temp;
 	}
 }
+
+// gcc -o test Parallel_project.c -lm 
+// ./test wi29.txt
+
+
